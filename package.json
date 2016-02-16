@@ -1,0 +1,14 @@
+{
+  "name": "vk-music-downloader",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "async": "^0.8.0",
+    "request": "^2.34.0",
+    "sanitize-filename": "^1.1.1",
+    "vkontakte": "^0.3.0"
+  }
+}
