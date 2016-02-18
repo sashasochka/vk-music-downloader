@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "async": "^0.8.0",
+    "colors": "^1.1.2",
     "request": "^2.34.0",
     "sanitize-filename": "^1.1.1",
     "vkontakte": "^0.3.0"
